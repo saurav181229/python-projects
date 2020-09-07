@@ -1,5 +1,5 @@
 This is a repository containing various python project
-1)  tictactoe(tictactoe.py)
+1)  tictactoe(tic-tac-toe.py)
 this is a tic tac toe game made with python
 it uses a random module and also time module. 
 it uses the concepts of dictionary, while loop and global variable
